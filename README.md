@@ -1,3 +1,3 @@
 write something in branch A
-- fix-B
+fix-B
 feature-C
